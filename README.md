@@ -2,7 +2,7 @@ Task Manager App
 
 Overview
 
-Ek simple aur interactive task management app jo aapke dainik tasks ko manage karne mein madad karta hai.
+Ek simple aur interactive task management app jo aapke tasks ko manage karne mein madat karta hai.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
